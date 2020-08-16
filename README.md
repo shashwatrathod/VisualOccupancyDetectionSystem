@@ -1,4 +1,5 @@
 
+
 # VisualOccupancyDetectionSystem
 This computer vision project is aimed at finding unoccupied spaces in a parking lot
 
@@ -25,3 +26,4 @@ Prem Banker - https://github.com/prem-banker
 Daiveek Naik - https://github.com/daiveeknaik14
 Drishti Sabhaya
 Mauli Patel
+
