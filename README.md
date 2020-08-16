@@ -21,5 +21,7 @@ In our testing, we found out that using BnW images doesn't affect the accuracy a
 (Currently works only on prerecorded videos)
 
 ## Contributors
-@prem-banker https://github.com/prem-banker \n
-@daiveeknaik14 https://github.com/daiveeknaik14
+Prem Banker - https://github.com/prem-banker
+Daiveek Naik - https://github.com/daiveeknaik14
+Drishti Sabhaya
+Mauli Patel
