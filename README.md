@@ -19,3 +19,7 @@ In our testing, we found out that using BnW images doesn't affect the accuracy a
 - run SelectROIs.py and select the locations of parking spaces by dragging the mouse pointer.
 - run Detect.py
 (Currently works only on prerecorded videos)
+
+## Contributors
+@prem-banker
+@daiveeknaik14
